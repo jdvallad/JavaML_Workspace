@@ -1,0 +1,9 @@
+[submodule "JavaML_Claims"]
+	path = JavaML_Claims
+	url = git@github.com:jdvallad/JavaML_Claims.git
+[submodule "JavaML_Mnist"]
+	path = JavaML_Mnist
+	url = git@github.com:jdvallad/JavaML_Mnist.git
+[submodule "JavaML_Core"]
+	path = JavaML_Core
+	url = git@github.com:jdvallad/JavaML_Core.git
