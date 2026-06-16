@@ -7,3 +7,6 @@
 [submodule "JavaML_Core"]
 	path = JavaML_Core
 	url = git@github.com:jdvallad/JavaML_Core.git
+[submodule "JavaML_Stellar"]
+	path = JavaML_Stellar
+	url = git@github.com:jdvallad/JavaML_Stellar.git
